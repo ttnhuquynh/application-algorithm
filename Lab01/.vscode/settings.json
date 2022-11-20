@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "text": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "new": "cpp"
+    }
+}
